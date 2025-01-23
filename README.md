@@ -13,6 +13,7 @@
 | [网页编写基础](./steps/1.md)                   | HTML 的基本结构与常用标签、CSS 的常用选择器和属性          | 3 周     |
 | [JavaScript 入门与 DOM 基础操作](./steps/2.md) | JavaScript 的基本语法、DOM 的基本操作                      | 3 周     |
 | [JavaScript 和 CSS 进阶](./steps/3.md)         | 响应式布局、CSS 选择器进阶、JavaScript 异步入门、fetch API | 3 周     |
+| [前端框架入门 & 寒假合作轮](./steps/4.md)      | React 或 Vue 框架入门                                      | 5 周     |
 
 未完待续...
 
